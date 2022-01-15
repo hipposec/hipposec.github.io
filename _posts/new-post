@@ -1,0 +1,7 @@
+echo ---
+echo layout: default
+echo title: \"$1\"
+echo date: `date +"%Y-%m-%d %T %z"`
+echo categories: uncategorized
+echo ---
+
