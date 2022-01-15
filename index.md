@@ -4,6 +4,7 @@
 
 layout: home
 title: "Hipposec security page"
+theme: minima
 ---
 here is some test text
 Sat 15 Jan 2022 10:51:09 AM EST
