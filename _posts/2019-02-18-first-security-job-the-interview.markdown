@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Preparing for that first security job - the interview"
-date: 2022-01-15 18:48:30 -0500
+date: 2019-02-18 18:48:30 -0500
 categories: uncategorized
 ---
 The point of this series has been to provide direction to a new security practitioner who may have gained knowledge through college or certifications and is now trying to turn that into a career. As the closing chapter I wanted to give advice on interviewing for the job based on my experiences from both sides of the table.
