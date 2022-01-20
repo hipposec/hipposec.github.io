@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Using Amazon Dash button to trigger scripts"
-date: 2022-01-20 07:21:27 -0500
+date: 2017-04-16 07:21:27 -0500
 categories: uncategorized
 ---
 
