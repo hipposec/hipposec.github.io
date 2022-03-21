@@ -18,14 +18,14 @@ In your onpremises bitwarden instance, go to your bitwarden directory and edit b
 
 There, you'll find two values that you need to replace with the ones you got from the yubico site:
 
->> globalSettings__yubico__clientId=REPLACE
->> globalSettings__yubico__key=REPLACE
+> globalSettings__yubico__clientId=REPLACE
+> globalSettings__yubico__key=REPLACE
 
 After modifying the entries, save the file and go back to your main bitwarden directory. Then, rebuild bitwarden like so:
 
->> ./bitwarden.sh stop
->> ./bitwarden.sh rebuild
->> ./bitwarden.sh start
+> ./bitwarden.sh stop
+> ./bitwarden.sh rebuild
+> ./bitwarden.sh start
 
 
 After that, the registration process should work.
