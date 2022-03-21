@@ -9,9 +9,10 @@ I have been recently migrating from Lastpass over to a self hosted version of Bi
 
 When I went to add my Yubikey 5 NFC as my MFA token, I was getting an error after pressing the button for registration:
 
-> An error has occured
-
-> An unhandled server error has occured
+```
+An error has occured
+An unhandled server error has occured
+```
 
 It turns out that Yubico requires adding an API key to your Bitwarden instance to work. Go over to https://upgrade.yubico.com/getapikey/ and set this up by entering your email address and pressing the button on your yubico key. This will give you a Client ID and Secret key value.
 
