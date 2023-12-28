@@ -3,6 +3,7 @@ layout: post
 title: "Binocular Astronomy"
 date: 2022-12-20 15:40:47 -0500
 categories: uncategorized
+tags: astronomy
 ---
 After my last posting about the Explore Scientific Dobsonian, I ended up deciding to return it and convinced my wife we should spend the money (almost 3x as much) on a Celestron Nexstar 8SE. This is a 8 inch Schmidt-Cassegrain with a 2030mm focal length. Even though it was a little smaller, I really liked being back on a tripod.
 
