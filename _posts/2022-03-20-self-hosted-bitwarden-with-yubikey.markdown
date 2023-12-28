@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post 
 title: "Self-hosted Bitwarden with Yubikey"
 date: 2022-03-20 22:20:28 -0400
 categories: uncategorized
