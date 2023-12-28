@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default 
-title: "Security Wanderings"
+title: "My Notes"
 ---
-I'll be using this space to write my thoughts on cyber security and any other hobbies. As I've had a couple of other websites, I'll be migrating old posts from there to here.
-
+Random collection of ideas on cybersec, astronomy, ham radio and whatever was interesting at the time.<br>
+<a href="/about.html">About Me</a>
 
 {% for post in site.posts limit: 10 %}
   <article class="index-page">
