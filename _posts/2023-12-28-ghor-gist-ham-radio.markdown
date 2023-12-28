@@ -21,4 +21,4 @@ Who are you?
 Just a guy with a general class ham radio license. I'd consider myself a pretty technical person, my parents started me out with computers in the mid-90s when I was in elementary school and I just ran with it. When I finished college I started a career in cyber security. I had some interest in scanning and CB radio in the early 2000s and actually went as far as getting my tech license, but never quite got around to buying the radio. In 2019 I heard about the RTL-SDR which then led to shortwave, gmrs and finally ham radio. I got my tech license again in early 2021 and upgade to General shortly after. I haven't yet decided if the Extra class is worth the effort for me.
 
 Links to posts in the series will be added below as they're added:
-
+[Gist of APRS](https://hipposec.github.io/uncategorized/2023/12/28/gist-of-aprs.html)
