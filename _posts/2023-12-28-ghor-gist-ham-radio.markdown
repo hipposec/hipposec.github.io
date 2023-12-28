@@ -4,8 +4,6 @@ title: "GHOR - Gist of Ham Radio"
 date: 2023-12-28 16:19:25 -0500
 categories: uncategorized
 ---
-What is this?
-
 This is an intro post to a running series I try to simplify ham radio concepts.
 
 Why?

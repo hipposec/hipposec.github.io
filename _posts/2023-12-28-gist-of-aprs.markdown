@@ -4,7 +4,7 @@ title: "GHOR - Gist of APRS"
 date: 2023-12-28 16:23:46 -0500
 categories: uncategorized
 ---
-This post is part of a series explained here [Gist of Ham Radio (GHOR)](https://hipposec.github.io/uncategorized/2023/12/28/ghor-gist-ham-radio.html) .
+This short summary of APRS is part of a series explained here [Gist of Ham Radio (GHOR)](https://hipposec.github.io/uncategorized/2023/12/28/ghor-gist-ham-radio.html) .
 
 APRS is a digital transmission of packets over your radio. Once broadcasted, these packets can be picked up by repeaters (digipeaters) which will rebroadcast them so that they cover a longer distance. Your ultimate goal is to have your packet picked up by an iGate which will post them to the internet. From there they could be turned into SMS messages, message bots for information, or let someone know your location.
 
