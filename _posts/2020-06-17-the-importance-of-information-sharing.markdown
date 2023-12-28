@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "The importance of information sharing"
 date:   2020-06-17 12:13:07 -0500
 categories: cybersecurity

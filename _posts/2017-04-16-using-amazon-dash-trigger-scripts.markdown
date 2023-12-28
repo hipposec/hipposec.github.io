@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Using Amazon Dash button to trigger scripts"
 date: 2017-04-16 07:21:27 -0500
 categories: uncategorized

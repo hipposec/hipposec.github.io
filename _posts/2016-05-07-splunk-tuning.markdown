@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Splunk tuning"
 date: 2016-05-07 07:18:42 -0500
 categories: uncategorized

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Getting gqrx running on Ubuntu 20.04"
 date:   2021-04-06 10:19:08 -0500
 categories: radio

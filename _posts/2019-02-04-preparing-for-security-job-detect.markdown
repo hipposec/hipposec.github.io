@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Prepairing for that first security job - Detect"
 date: 2019-02-04 07:34:42 -0500
 categories: uncategorized

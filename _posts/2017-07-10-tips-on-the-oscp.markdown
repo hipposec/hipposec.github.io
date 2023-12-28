@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Tips on the OSCP"
 date: 2017-07-10 07:23:40 -0500
 categories: uncategorized

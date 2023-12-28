@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Preparing for that first security job - Intro"
 date: 2019-01-20 07:27:03 -0500
 categories: uncategorized
