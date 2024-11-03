@@ -6,7 +6,8 @@ layout: default
 title: "My Notes"
 ---
 Random collection of ideas on cybersec, astronomy, ham radio and whatever was interesting at the time.<br>
-<a href="/about.html">About Me</a>
+<a href="/about.html">About Me</a><br>
+<a rel="me" href="https://infosec.exchange/@hipposec2">Mastodon</a>
 
 {% for post in site.posts limit: 10 %}
   <article class="index-page">
